@@ -1,0 +1,33 @@
+.container_header{
+    background-color: #0093E9;
+    background-image: linear-gradient(135deg, #0093E9 0%, #80D0C7 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container_titulo{
+    text-align: center;
+    padding: 0.938rem;
+}
+
+.container_header_icones{
+    padding: 0.500rem;
+    display: flex;
+}
+
+.icones_item{
+    width: 1.875rem;
+    margin: auto 0.938rem;
+}
+
+/* @media screen and (min-width: 413px){
+    .titulo_principal{
+        transition: text-shadow 2s;
+    }
+
+    .titulo_principal:hover{
+        text-shadow: 2px 2px 5px #000;
+    }
+} */

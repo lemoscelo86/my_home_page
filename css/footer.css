@@ -1,0 +1,18 @@
+.container_footer{
+    background-color: #85FFBD;
+    background-image: linear-gradient(135deg, #85FFBD 0%, #FFFB7D 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo_footer{
+    text-align: center;
+    padding: 0.938rem;
+}
+
+.container_footer_icones{
+    padding: 0.500rem;
+    display: flex;
+}
